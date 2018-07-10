@@ -31,12 +31,12 @@
       "playlist-id": "PLt6XGU5YUHJVneqSXea15IX3VkMaM_XKO"
     },
     {
-      "name": "Movies",
-      "playlist-id": "PLt6XGU5YUHJWn6H6WTXTtuHdx6dyOlbEz"
-    },
-    {
       "name": "Songs",
       "playlist-id": "PLt6XGU5YUHJVWCcJiKCVj42dbOkL2Bb-H"
+    },
+    {
+      "name": "Movies",
+      "playlist-id": "PLt6XGU5YUHJWn6H6WTXTtuHdx6dyOlbEz"
     }
   ]
 }
