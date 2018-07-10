@@ -1,59 +1,42 @@
 {
   "carousel": [
     {
-      "image": "https://i.ytimg.com/vi/gkhHzb4VnRc/maxresdefault.jpg"
+      "image": "https://i.ytimg.com/vi/4yCiJOhuVj0/sddefault.jpg"
     },
     {
-      "image": "https://i.ytimg.com/vi/PIbj_05_ICo/maxresdefault.jpg"
+      "image": "https://i.ytimg.com/vi/CzC2vkPUvVA/maxresdefault.jpg"
     },
     {
-      "image": "https://i.ytimg.com/vi/HEvPRgQPrkk/maxresdefault.jpg"
+      "image": "https://i.ytimg.com/vi/KPp5RCxs5Uw/maxresdefault.jpg"
+    },    
+    {
+      "image": "https://i.ytimg.com/vi/YAcYPh5CrvM/maxresdefault.jpg"
     },
     {
-      "image": "https://i.ytimg.com/vi/FCUPcNBpq4E/maxresdefault.jpg"
+      "image": "https://i.ytimg.com/vi/UXXo5iWYAEA/sddefault.jpg"
     },
     {
-      "image": "https://i.ytimg.com/vi/T9TZnHxZV3s/maxresdefault.jpg"
+      "image": "https://i.ytimg.com/vi/dBabJBX_GCk/maxresdefault.jpg"
     },
     {
-      "image": "https://i.ytimg.com/vi/PT1Nqm3dU_0/maxresdefault.jpg"
+      "image": "https://i.ytimg.com/vi/sZXe3cbatMI/maxresdefault.jpg"
     },
     {
-      "image": "https://i.ytimg.com/vi/lz-RrmVnBQ0/maxresdefault.jpg"
+      "image": "https://i.ytimg.com/vi/lxXGmcNo1A8/maxresdefault.jpg"
     }
   ],
   "categories": [
     {
-      "name": "Latest Releases",
-      "playlist-id": "PLrI5p64X6_FVgRhoaAvj-yS3RFtGfLRPi"
+      "name": "Latest",
+      "playlist-id": "PLt6XGU5YUHJVneqSXea15IX3VkMaM_XKO"
     },
     {
       "name": "Movies",
-      "playlist-id": "PLrI5p64X6_FVj6ZrHdn95AUsbT3ctq351"
+      "playlist-id": "PLt6XGU5YUHJWn6H6WTXTtuHdx6dyOlbEz"
     },
     {
       "name": "Songs",
-      "playlist-id": "PLrI5p64X6_FVDfLQNg1SYtESVbaDdqkNF"
-    },
-    {
-      "name": "Comedy Videos",
-      "playlist-id": "PLrI5p64X6_FVOZnV4kmKNCdkboxF16fK5"
-    },
-    {
-      "name": "Jokes",
-      "playlist-id": "PLrI5p64X6_FVWw_EH-sL__kfv0qgUzdgG"
-    },
-    {
-      "name": "Dayro",
-      "playlist-id": "PLrI5p64X6_FUwnljm73PBRZN6WEZzG0Ui"
-    },
-    {
-      "name": "Natak",
-      "playlist-id": "PLrI5p64X6_FUnNvE34X8qQSc0RnGX9Qcx"
-    },
-    {
-      "name": "Bhajan",
-      "playlist-id": "PLrI5p64X6_FXquOaw0Za1Til5osQE9KQM"
+      "playlist-id": "PLt6XGU5YUHJVWCcJiKCVj42dbOkL2Bb-H"
     }
   ]
 }
