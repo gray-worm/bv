@@ -1,0 +1,42 @@
+{
+  "carousel": [
+    {
+      "image": "https://i.ytimg.com/vi/4yCiJOhuVj0/mqdefault.jpg"
+    },
+    {
+      "image": "https://i.ytimg.com/vi/CzC2vkPUvVA/maxresdefault.jpg"
+    },
+    {
+      "image": "https://i.ytimg.com/vi/KPp5RCxs5Uw/maxresdefault.jpg"
+    },    
+    {
+      "image": "https://i.ytimg.com/vi/YAcYPh5CrvM/maxresdefault.jpg"
+    },
+    {
+      "image": "https://i.ytimg.com/vi/UXXo5iWYAEA/mqdefault.jpg"
+    },
+    {
+      "image": "https://i.ytimg.com/vi/dBabJBX_GCk/maxresdefault.jpg"
+    },
+    {
+      "image": "https://i.ytimg.com/vi/sZXe3cbatMI/maxresdefault.jpg"
+    },
+    {
+      "image": "https://i.ytimg.com/vi/lxXGmcNo1A8/maxresdefault.jpg"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Latest",
+      "playlist-id": "PLt6XGU5YUHJVneqSXea15IX3VkMaM_XKO"
+    },
+    {
+      "name": "Songs",
+      "playlist-id": "PLt6XGU5YUHJVWCcJiKCVj42dbOkL2Bb-H"
+    },
+    {
+      "name": "Movies",
+      "playlist-id": "PLt6XGU5YUHJWn6H6WTXTtuHdx6dyOlbEz"
+    }
+  ]
+}
