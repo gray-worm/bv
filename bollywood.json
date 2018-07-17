@@ -1,42 +1,50 @@
 {
   "carousel": [
     {
-      "image": "https://i.ytimg.com/vi/4yCiJOhuVj0/mqdefault.jpg"
+      "image": "https://i.ytimg.com/vi/P5B0KVl3xa8/maxresdefault.jpg"
     },
     {
-      "image": "https://i.ytimg.com/vi/CzC2vkPUvVA/maxresdefault.jpg"
+      "image": "https://i.ytimg.com/vi/SodVhwB6Sz8/maxresdefault.jpg"
     },
     {
-      "image": "https://i.ytimg.com/vi/KPp5RCxs5Uw/maxresdefault.jpg"
-    },    
-    {
-      "image": "https://i.ytimg.com/vi/YAcYPh5CrvM/maxresdefault.jpg"
+      "image": "https://i.ytimg.com/vi/YQNf6hN8UBc/maxresdefault.jpg"
     },
     {
-      "image": "https://i.ytimg.com/vi/UXXo5iWYAEA/mqdefault.jpg"
+      "image": "https://i.ytimg.com/vi/sbwypK-_PvU/maxresdefault.jpg"
     },
     {
-      "image": "https://i.ytimg.com/vi/dBabJBX_GCk/maxresdefault.jpg"
+      "image": "https://i.ytimg.com/vi/axjigH8di_k/maxresdefault.jpg"
     },
     {
-      "image": "https://i.ytimg.com/vi/sZXe3cbatMI/maxresdefault.jpg"
+      "image": "https://i.ytimg.com/vi/JPPeau-qDfQ/maxresdefault.jpg"
     },
     {
-      "image": "https://i.ytimg.com/vi/lxXGmcNo1A8/maxresdefault.jpg"
+      "image": "https://i.ytimg.com/vi/u1mQC2-gJ9I/maxresdefault.jpg"
+    },
+    {
+      "image": "https://i.ytimg.com/vi/-ijaZ-JjfcA/maxresdefault.jpg"
     }
   ],
   "categories": [
     {
-      "name": "Latest",
-      "playlist-id": "PLt6XGU5YUHJVneqSXea15IX3VkMaM_XKO"
+      "name": "Bollywood Movies",
+      "playlist-id": "PLt6XGU5YUHJXGMrQ6VnXo0Eem93_GmbNk"
     },
     {
-      "name": "Songs",
-      "playlist-id": "PLt6XGU5YUHJVWCcJiKCVj42dbOkL2Bb-H"
+      "name": "Dubbed Movies",
+      "playlist-id": "PLt6XGU5YUHJVd9vccVqQOOZSrc8AWDjbw"
     },
     {
-      "name": "Movies",
-      "playlist-id": "PLt6XGU5YUHJWn6H6WTXTtuHdx6dyOlbEz"
+      "name": "Comedy Movies",
+      "playlist-id": "PLt6XGU5YUHJXFyymtTm1WbONF6qP2IJsM"
+    },
+    {
+      "name": "Old Classical Movies",
+      "playlist-id": "PLt6XGU5YUHJWE5Ga0nQrOJ0niDeijFMqK"
+    },
+    {
+      "name": "Romantic Movies",
+      "playlist-id": "PLt6XGU5YUHJWK7ENrM20xvfrE9v8vA7uJ"
     }
   ]
 }
